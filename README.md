@@ -6,23 +6,23 @@ modulo, design per il pianeta
 ### software
 #### immagini raster (fotografiche)
 Photoshop  
-[Gimp](https://www.gimp.org)
+[Gimp](https://www.gimp.org)  
 
 #### immagini vettoriali
 illustrator  
-[inkskape](https://inkscape.org)
+[inkskape](https://inkscape.org)  
 
 #### ibridi
-[Affinity Designer](https://affinity.serif.com/en-gb/)
+[Affinity Designer](https://affinity.serif.com/en-gb/)  
 
 #### collaborativi
-[Figma](https://www.figma.com)
+[Figma](https://www.figma.com)  
 
 #### GIT
 GitHub 
-[GitHub Desktop ](https://desktop.github.com) 
+[GitHub Desktop ](https://desktop.github.com)  
 [SourceTree](https://www.sourcetreeapp.com)  
-[GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+[GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY)  
 
 
 #### MarkDown
