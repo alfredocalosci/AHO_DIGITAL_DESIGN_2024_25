@@ -41,6 +41,10 @@ Stampa Alternativa, 2005
 
 ***** 
 
+[Kelli Anderson](https://kellianderson.com/blog/)
+
+***** 
+
 #### digital foundry
 
 [the ligue of movable types](https://www.theleagueofmoveabletype.com)  
