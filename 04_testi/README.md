@@ -27,7 +27,7 @@ Stampa Alternativa, 2005
 
 ***** 
 
-![](https://github.com/alfredocalosci/AHO_DIGITAL_DESIGN_2022_23/blob/main/01_colore/cieluv.jpeg)  
+![](https://github.com/alfredocalosci/AHO_DIGITAL_DESIGN_2022_23/blob/main/04_testi/Univers-Schema.png)  
 
 [Univers](https://en.wikipedia.org/wiki/Univers)
 
