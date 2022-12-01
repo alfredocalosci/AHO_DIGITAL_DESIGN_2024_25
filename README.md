@@ -19,7 +19,7 @@ illustrator
 [Figma](https://www.figma.com)  
 
 #### GIT
-GitHub 
+[GitHub](https://github.com)  
 [GitHub Desktop ](https://desktop.github.com)  
 [SourceTree](https://www.sourcetreeapp.com)  
 [GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY)  
