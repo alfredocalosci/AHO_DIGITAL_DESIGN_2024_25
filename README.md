@@ -35,4 +35,3 @@ illustrator
 3. tracciati e curve di bezier
 4. fonts, postscript e formati vettoriali
 5. GIT
-6. coding
