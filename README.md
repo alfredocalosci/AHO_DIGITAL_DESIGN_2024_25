@@ -1,5 +1,5 @@
-# AHO_DIGITAL_DESIGN_2022_23
-modulo, design per il pianeta terra
+# AHO_DIGITAL_DESIGN_2024_25
+design per il pianeta terra - modulo digital design media 1
 
 
 
@@ -30,9 +30,12 @@ illustrator
 [iA Writer](https://ia.net/writer)
 
 ### contenuti
-1. colore
-2. formati
-3. tracciati e curve di bezier
-4. fonts, postscript e formati vettoriali
-5. GIT
-6. coding
+1) colore: fisiologia, spazi e modelli di colore
+RGB, CMYK, HSB, Lab …
+2) formati “raster”
+Risoluzione, profondità di colore, compressione
+3) edizione di immagini: luminosità, contrasto, altre “qualità” fotografiche
+4) i formati vettoriali: tracciati e curve di Bezier
+5) testi, caratteri, postscript
+6) GIT e strumenti collaborativi
+
